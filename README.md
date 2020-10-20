@@ -74,3 +74,8 @@ KTalk merupakan aplikasi obrolan berbasis web yang digunakan untuk saling berkom
 * Buka CMD dan arahkan ke dalam folder KTalk tersebut
 * Ketik php spark serve
 * Otomatis terbuka localhost:8080
+
+# License
+MIT License 2020, Rizki Karianata.
+
+The data may not be used for commercial purposes.
