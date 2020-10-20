@@ -63,3 +63,14 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 # KTalk
+
+KTalk merupakan aplikasi obrolan berbasis web yang digunakan untuk saling berkomunikasi. KTalk dibuat menggunakan CodeIgniter 4 dan Firebase.
+
+- [Demo Aplikasi](https://karianata.com/ktalk/)
+
+# Usage
+* Clone atau Download KTalk repository
+* Pindahkan ke dalam folder htdocs
+* Buka CMD dan arahkan ke dalam folder KTalk tersebut
+* Ketik php spark serve
+* Otomatis terbuka localhost:8080
