@@ -50,15 +50,15 @@
 #--------------------------------------------------------------------
 
 # database.default.hostname = localhost
-# database.default.database = ci4
+# database.default.database = db_ktalk_app
 # database.default.username = root
-# database.default.password = root
+# database.default.password = 
 # database.default.DBDriver = MySQLi
 
 # database.tests.hostname = localhost
-# database.tests.database = ci4
+# database.tests.database = db_ktalk_app
 # database.tests.username = root
-# database.tests.password = root
+# database.tests.password = 
 # database.tests.DBDriver = MySQLi
 
 #--------------------------------------------------------------------
