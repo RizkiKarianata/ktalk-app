@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the KTalk App! 👋 </h1>
+<h1 align="center">Welcome to KTalk App! 👋 </h1>
 
 ![KTalk App](https://user-images.githubusercontent.com/52366240/172050047-bf386ff9-a86d-4035-bdc8-f75b0339a70a.png)
 
